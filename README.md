@@ -1,2 +1,2 @@
-# anti-addict-for-apps
-try to create a kit for short video applications or so.
+# 短视频防沉迷AntiAddictionKitForApps
+## 说明
